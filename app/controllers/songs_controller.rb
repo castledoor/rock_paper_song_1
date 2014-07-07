@@ -3,6 +3,7 @@ class SongsController < ApplicationController
 	include AWS::S3
   def index
     @songs = AWS::S3::Bucket.find(BUCKET).objects
+    # binding.pry
   end
  
   def upload
