@@ -15,6 +15,12 @@ module RockPaperSong
     :secret_access_key => 'FmR40rpVaDmazxtxsFNCyreUMle8+zTKbHrHYbPN'
     )
 
+
+
+
+
+    
+
     BUCKET = 'rockpapersong1'
     
     # Settings in config/environments/* take precedence over those specified here.
