@@ -12,14 +12,8 @@ module RockPaperSong
 
     AWS::S3::Base.establish_connection!(
     :access_key_id     => 'AKIAICFYEFCBBFMBVOGQ',
-    :secret_access_key => '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'
+    :secret_access_key => 'q/znSWJ9UuCXgmmjNMHnHhQnNsPfDG696tXDW2hV'
     )
-
-
-
-
-
-    
 
     BUCKET = 'rockpapersong1'
     
