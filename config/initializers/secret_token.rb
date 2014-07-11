@@ -1,0 +1,1 @@
+RockPaperSong::Application.config.secret_key_base = 'b1a074fd67f25f929debc141724c806580bd6847c180b4b12abd23a87c7ccf27266ddceb58cdfc09b6bdc7330bf3e105364985dfb396bdc1103d67f761d8edd9'
